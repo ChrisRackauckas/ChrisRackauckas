@@ -3,7 +3,9 @@
 ![Youtube Badge](https://img.shields.io/youtube/channel/views/UCugBGdUbn6PeH03iPZtr-JQ?style=social)
 
 [Personal Website](https://chrisrackauckas.com/)
+
 [Blog](http://www.stochasticlifestyle.com/)
+
 SciML Organization Stats: ![SciML Stars](https://img.shields.io/github/stars/SciML?style=social)
 
 Chris is the [Director of Modeling and Simulation at Julia Computing](https://juliacomputing.com/), the 
