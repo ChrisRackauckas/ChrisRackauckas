@@ -2,7 +2,9 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ChrisRackauckas/)
 [![Youtube Badge](https://img.shields.io/youtube/channel/views/UCugBGdUbn6PeH03iPZtr-JQ?style=social)](https://www.youtube.com/channel/UCugBGdUbn6PeH03iPZtr-JQ/featured)
 [![Hacker News Badge](https://img.shields.io/hackernews/user-karma/ChrisRackauckas?style=social)](https://news.ycombinator.com/user?id=ChrisRackauckas)
-[![Stackoverflow Reputation](https://img.shields.io/stackexchange/stackoverflow/r/1544203)](https://stackoverflow.com/users/1544203/chris-rackauckas)
+
+[![Chris's github stats](https://github-readme-stats.vercel.app/api?username=ChrisRackauckas&theme=blue-green)](https://github.com/ChrisRackauckas/github-readme-stats)
+
 
 [Personal Website](https://chrisrackauckas.com/)
 
