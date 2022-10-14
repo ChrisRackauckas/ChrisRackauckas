@@ -3,12 +3,7 @@
 [![Youtube Badge](https://img.shields.io/youtube/channel/views/UCugBGdUbn6PeH03iPZtr-JQ?style=social)](https://www.youtube.com/channel/UCugBGdUbn6PeH03iPZtr-JQ/featured)
 [![Hacker News Badge](https://img.shields.io/hackernews/user-karma/ChrisRackauckas?style=social)](https://news.ycombinator.com/user?id=ChrisRackauckas)
 
-[![Chris's github stats](https://github-readme-stats.vercel.app/api?username=ChrisRackauckas&theme=blue-green)](https://github.com/ChrisRackauckas/github-readme-stats)
-
-
-[Personal Website](https://chrisrackauckas.com/)
-
-[Blog](http://www.stochasticlifestyle.com/)
+**Websites**: [Personal Website](https://chrisrackauckas.com/) | [Blog](http://www.stochasticlifestyle.com/)
 
 SciML Organization Stats: ![SciML Stars](https://img.shields.io/github/stars/SciML?style=social)
 
