@@ -7,7 +7,7 @@
 
 SciML Organization Stats: ![SciML Stars](https://img.shields.io/github/stars/SciML?style=social)
 
-Chris is the [Director of Modeling and Simulation at Julia Computing](https://juliacomputing.com/), the 
+Chris is the [VP of Modeling and Simulation at Julia Computing](https://juliacomputing.com/), the 
 [Director of Scientific Research at Pumas-AI](https://pumas.ai/), [Co-PI of the Julia Lab at MIT](https://julia.mit.edu/), and 
 the [lead developer of the SciML Open Source Software Organization](https://sciml.ai/). He is the lead developer of the Pumas 
 project and has received a top presentation award at every ACoP in the last 3 years for improving methods for uncertainty 
